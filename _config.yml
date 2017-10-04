@@ -17,7 +17,7 @@ tomersource: https://github.com/petehouston/the-only-bootstrap-page
 title: "My 2 Second Landing Page"
 top_title: "My New Top Titlte1"
 email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your documen head meta (for Google search results) and in your feed.xml site description.
+description: "around at the same fucking bootstrap page you've seen ten million times before! Featuring all the same things as those pages! THIS BUTTON MAKES THE PAGE SCROLL"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
