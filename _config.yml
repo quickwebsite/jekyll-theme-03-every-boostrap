@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 tomersource: https://github.com/petehouston/the-only-bootstrap-page
-title: "Keren New Site"
-top_title: "Keren New Title"
-top_button_page_scroll_title: "top button SCroll Title"
-subtitle: "Want to make an original website yourself?"
+title: "undefined"
+top_title: "undefined"
+top_button_page_scroll_title: "undefined"
+subtitle: "undefined"
 email: your-email@example.com
-description: "Amazing description for your web site Amazing description for your web siteAmazing description for your web siteAmazing description for your web siteAmazing description for your web siteAmazing description for your web site"
+description: "undefined"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
