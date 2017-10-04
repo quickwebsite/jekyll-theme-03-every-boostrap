@@ -20,7 +20,7 @@ top_button_page_scroll_title: "Top Button Scroll Title"
 subtitle: "Want to make this subtitle yourself?"
 email: your-email@example.com
 description: "Description"
-subtitle: "Forget that! Who would ever want to put in all of that effort for a website? Just open up your web browser and type bootstrap template into your favorite search engine, like Yahoo! or Bing, and you're on your way! There are hundreds of templates to choose from, but go ahead and pick this same exact template from the first result on google, edit a few lines, and you're on your way! No one will notice! :)"
+subtitle: "Want to make this subtitle yourself?"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
