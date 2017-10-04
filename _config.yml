@@ -16,7 +16,7 @@
 tomersource: https://github.com/petehouston/the-only-bootstrap-page
 title: "Keren New Site"
 top_title: "Keren New Title"
-top_botton_page_scroll_title: "This button makes the page scroll"
+top_botton_page_scroll_title: "top button SCroll Title"
 email: your-email@example.com
 description: "Amazing description for your web site Amazing description for your web siteAmazing description for your web siteAmazing description for your web siteAmazing description for your web siteAmazing description for your web site"
 baseurl: "" # the subpath of your site, e.g. /blog
