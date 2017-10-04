@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 tomersource: https://github.com/petehouston/the-only-bootstrap-page
-title: "Keren1 Site"
-top_title: "Top Title"
-top_button_page_scroll_title: "Top Button Scroll Title"
+title: "Default Web Site Title11"
+top_title: "Top Left Title11"
+top_button_page_scroll_title: "Top Button Title11"
 subtitle: "Want to make this subtitle yourself?"
 email: your-email@example.com
-description: "Description"
+description: "The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description "
 subdescription: "Forget that! Who would ever want to put in all of that effort for a website? Just open up your web browser and type bootstrap template into your favorite search engine, like Yahoo! or Bing, and you're on your way! There are hundreds of templates to choose from, but go ahead and pick this same exact template from the first result on google, edit a few lines, and you're on your way! No one will notice! :)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
