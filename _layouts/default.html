@@ -66,6 +66,34 @@
                     </li>
                 </ul>
             </div>
+
+            <script>
+                setTimeout(function() {
+                    $("#gopro").removeClass('hidden');
+                }, 5000);
+            </script>
+            <div id="gopro" class="alert alert-info text-center fade in hidden">
+                <a href="something" class="alert-link">Get This WebSite Up And Running With Your Domain!</a>
+            </div>
+
+            <script lang="javascript">
+                BootstrapDialog.show({
+                    title: 'Default Title',
+                    message: 'Click buttons below.',
+                    buttons: [{
+                        label: 'Title 1',
+                        action: function(dialog) {
+                            dialog.setTitle('Title 1');
+                        }
+                    }, {
+                        label: 'Title 2',
+                        action: function(dialog) {
+                            dialog.setTitle('Title 2');
+                        }
+                    }]
+                });
+
+            </script>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
