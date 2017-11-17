@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 tomersource: https://github.com/petehouston/the-only-bootstrap-page
-title: "dgfdgfdfg Default Web Site Title"
+title: "Default Web Site Titlefufufuf"
 top_title: "undefined"
 top_button_page_scroll_title: "Top Button Title"
 subtitle: "Want to make this subtitle yourself?"
