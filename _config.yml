@@ -19,8 +19,8 @@ top_title: "undefined"
 top_button_page_scroll_title: "Top Button Title"
 subtitle: "Default Web Site Title"
 email: your-email@example.com
-description: "The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description "
-subdescription: "The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description "
+description: "111The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description "
+subdescription: "111The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
