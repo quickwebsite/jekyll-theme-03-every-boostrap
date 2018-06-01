@@ -1,26 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Titles
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-tomersource: https://github.com/petehouston/the-only-bootstrap-page
-title: "Tomer Default Web Site Title"
-top_title: "undefined"
-top_button_page_scroll_title: "Top Button Title"
-subtitle: "Tomer Default Web Site Title"
-email: your-email@example.com
-description: "The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description "
-subdescription: "The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description The only site description "
+title: "Your Cool WebSite Title"
+top_left_title: "Your Cool Website"
+top_button_page_scroll_title: "Check Us Out"
+
+# Navigation Bar
+
+navigation_four_icons_text: "Four Icons"
+navigation_showcase_text: "Showcase"
+navigation_contactus_text: "Call Me"
+
+# More Details Section
+
+moredetails_section_title: "This Is An Amazing Product"
+moredetails_section_description: "Your whole website is actually one text file configuration, isn't that just wonderful, you can backup your whole web site with a simple text file, this is just genius! You can switch templates and just upload this single text file to change template, awesome!"
+moredetails_section_button_title: "Google That Shit"
+
+# Showcase Section
+
+multicolumn_section_title: "So Fucking Creative"
+multicolumn_section_first_column_title: "This Fucking Template"
+multicolumn_section_first_column_description: "Guaranteed to use the same fucking template that every other bootstrap website uses, downloaded straight from The Web"
+multicolumn_section_second_column_title: "This Set of Four Icons"
+multicolumn_section_second_column_description: "Look at this cool set of four icons describing different things about us! We use four, because it's the default."
+multicolumn_section_third_column_title: "Lots of effort"
+multicolumn_section_third_column_description: "We even changed some of the icons! We take the extra effort to make our designs truly original."
+multicolumn_section_forth_column_title: "Made with Love"
+multicolumn_section_forth_column_description: "Because nothing says hard work and talent like editing a few lines of text."
+
+# Social
+
+email: holly@shit.com
+description: "Your whole website is actually one text file, isn't that just wonderful, you can backup your whole web site with a simple text file, this is just genius! You can switch templates and just upload this single text file to change template, awesome!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -32,14 +43,4 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+tomersource: https://github.com/petehouston/the-only-bootstrap-page
